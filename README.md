@@ -6,3 +6,5 @@
 3.Finding the area of a triangle.
 <br>
 4.To display the fibonacci series for a number of terms using recursion.
+<br>
+5.To find the average of the number of marks entered.
