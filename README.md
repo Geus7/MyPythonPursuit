@@ -8,3 +8,5 @@
 4.To display the fibonacci series for a number of terms using recursion.
 <br>
 5.To find the average of the number of marks entered.
+<br>
+6.Checking if a given string is a palindrome or not using slicing.
