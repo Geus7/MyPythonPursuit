@@ -10,3 +10,5 @@
 5.To find the average of the number of marks entered.
 <br>
 6.Checking if a given string is a palindrome or not using slicing.
+<br>
+7.To check if a given year is a leap year or not. 
