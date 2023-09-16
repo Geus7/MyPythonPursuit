@@ -12,3 +12,5 @@
 6.Checking if a given string is a palindrome or not using slicing.
 <br>
 7.To check if a given year is a leap year or not. 
+<br>
+8.To find the volume of the cube.
