@@ -16,4 +16,6 @@
 8.To find the volume of the cube.
 <br>
 9.Finding the lab cost from inputs.
+<br>
+10.To check if the entered character is an alphabet or not. 
 
