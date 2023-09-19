@@ -18,4 +18,6 @@
 9.Finding the lab cost from inputs.
 <br>
 10.To check if the entered character is an alphabet or not. 
-
+<br>
+11.Creating a simple dictionary in python for countries and their capital.
+<br>
