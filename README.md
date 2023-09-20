@@ -21,3 +21,5 @@
 <br>
 11.Creating a simple dictionary in python for countries and their capital.
 <br>
+12.To get an integer as input and display 'fizz' if it is divisible by 3,'buzz' if it is divisible by 5,and 'fizzbuzz' if it is divisible by both 3 and 5.
+<br>
