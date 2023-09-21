@@ -1,4 +1,4 @@
-# MyPythonPursuit
+13# MyPythonPursuit
 1.Finding the greatest number among three by taking input from user. 
 <br>
 2.To find if the entered digit is odd or even.
@@ -22,4 +22,6 @@
 11.Creating a simple dictionary in python for countries and their capital.
 <br>
 12.To get an integer as input and display 'fizz' if it is divisible by 3,'buzz' if it is divisible by 5,and 'fizzbuzz' if it is divisible by both 3 and 5.
+<br>
+13.To check if the entered number is +,-, or zero.
 <br>
