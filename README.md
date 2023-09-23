@@ -25,3 +25,5 @@
 <br>
 13.To check if the entered number is +,-, or zero.
 <br>
+14.To check the validity of a mobile number using regular expressions.
+<br>
