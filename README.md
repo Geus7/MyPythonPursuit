@@ -27,3 +27,5 @@
 <br>
 14.To check the validity of a mobile number using regular expressions.
 <br>
+15.To print pattern of numbers in  reverse order (decreasing order) by taking input.
+<br>
