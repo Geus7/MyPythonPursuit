@@ -29,3 +29,5 @@
 <br>
 15.To print pattern of numbers in  reverse order (decreasing order) by taking input.
 <br>
+16.Convert weight into kgs or pounds.
+<br>
