@@ -31,3 +31,5 @@
 <br>
 16.Convert weight into kgs or pounds.
 <br>
+17.RGB intensity segregator.
+<br>
