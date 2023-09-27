@@ -33,3 +33,5 @@
 <br>
 17.RGB intensity segregator.
 <br>
+18.To find the substring from a string which is the longest palindrome(practice)
+<br>
