@@ -1,0 +1,24 @@
+def longpal(s):
+	
+	count = -1
+	ans = ""
+	n = len(s)
+
+	dp = [[False] * n for _ in range(n)]
+	for g in range(n):
+		for i in range(n - g):
+			j = i + g
+			
+			if g == 0:
+				dp[i][j] = True
+			elif g == 1:
+				dp[i][j] = (s[i] == s[j])
+			else:
+				dp[i][j] = (s[i] == s[j] and dp[i + 1][j - 1])
+			if dp[i][j] and count < j - i + 1:
+				ans = s[i:j + 1]
+				count = len(ans)
+	return ans
+
+s=str(input("Enter string: "))
+print(longpal(s))
