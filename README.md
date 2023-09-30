@@ -35,3 +35,6 @@
 <br>
 18.To find the substring from a string which is the longest palindrome(practice)
 <br>
+19.Sum of n natural numbers.
+<br>
+
