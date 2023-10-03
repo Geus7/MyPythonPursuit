@@ -37,4 +37,6 @@
 <br>
 19.Sum of n natural numbers.
 <br>
+20.Collecting two unsorted arrays,followed by sorting and merging them.
+<br>
 
