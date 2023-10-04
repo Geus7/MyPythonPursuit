@@ -39,4 +39,6 @@
 <br>
 20.Collecting two unsorted arrays,followed by sorting and merging them.
 <br>
+21.To find the number of vowels,alphabet and special characters in a given paragraph.
+<br>
 
