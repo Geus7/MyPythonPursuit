@@ -41,4 +41,6 @@
 <br>
 21.To find the number of vowels,alphabet and special characters in a given paragraph.
 <br>
+22.Find the shortest subarray length in an array of positive integers such that the sum of its elements is greater than or equal to a given positive integer target? If there is no such subarray that meets this condition, you should return 0.
+<br>
 
