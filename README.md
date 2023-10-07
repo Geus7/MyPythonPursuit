@@ -45,4 +45,5 @@
 <br>
 23.To count the number of ones from 0 to the entered number.
 <br>
-
+24.To search a list of numbers and check if a given key is present.
+<br>
