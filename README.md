@@ -47,3 +47,6 @@
 <br>
 24.To search a list of numbers and check if a given key is present.
 <br>
+25.To check if the entered number is a happy number or not.
+<br>
+
